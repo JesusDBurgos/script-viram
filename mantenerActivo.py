@@ -18,5 +18,5 @@ if __name__ == "__main__":
     while True:
         realizar_peticion()
         # Espera un tiempo antes de realizar la próxima petición.
-        time.sleep(60)  # Espera 5 minutos (ajusta el valor según tus necesidades).
+        time.sleep(90)  # Espera 5 minutos (ajusta el valor según tus necesidades).
         print("ESTA VIVO!!")
